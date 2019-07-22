@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">app.u17.com</domain>
+        <domain includeSubdomains="true">image.mylife.u17t.com</domain>
+        <domain includeSubdomains="true">cover.u17i.com</domain>
+        <domain includeSubdomains="true">cover2.u17i.com</domain>
+        <domain includeSubdomains="true">k.static.u17i.com</domain>
+        <domain includeSubdomains="true">static.u17i.com</domain>
+    </domain-config>
+</network-security-config>

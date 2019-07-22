@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">YouYaoQi2</string>
+
+    <string name="main_title">I q o a y</string>
+
+    <string name="discovery">发现</string>
+    <string name="update">更新</string>
+    <string name="bookshelf">书架</string>
+    <string name="mine">我的</string>
+    <string name="search">搜索</string>
+    <string name="subscribe">订阅</string>
+
+    <string name="search_result_empty">无结果</string>
+    <string name="search_result_loadMore">正在加载更多…</string>
+
+    <string name="search_hint">搜索漫画</string>
+    <string name="download">下载</string>
+
+    <string name="expand_more">展开更多</string>
+
+</resources>
